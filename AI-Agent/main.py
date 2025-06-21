@@ -423,3 +423,11 @@ Conversation:
     except Exception as e:
         print("❌ Summary Error:", e)
         return JSONResponse(status_code=500, content={"error": str(e)})
+    
+
+
+
+
+
+    # export GOOGLE_APPLICATION_CREDENTIALS="/Users/garimakalra/AI-Sales-Agent/analog-forest-463513-j1-666ea2cdc615.json" 
+    # python3 /Users/garimakalra/AI-Sales-Agent/AI-Agent/main.py
