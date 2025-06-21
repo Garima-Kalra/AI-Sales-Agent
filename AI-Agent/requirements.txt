@@ -1,0 +1,8 @@
+fastapi
+requests
+twilio
+python-dotenv
+google-cloud-speech
+google-generativeai
+pymongo
+uvicorn
